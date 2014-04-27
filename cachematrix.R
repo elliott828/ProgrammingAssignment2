@@ -1,5 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+## the pair of functions are aimed at caching the inverse of a matrix.
 
 ## Write a short comment describing this function
 ## This function creates a special "matrix", which is really a list containing a function to
